@@ -2,7 +2,7 @@
 
 Exemplo de uma API utilizando SpringDataJPA.
 
-É necessário adicionar o usuário, senha e datasource do seu Banco de dados.
+É necessário adicionar o usuário, senha e url do seu Banco de dados.
 
 - Listando produtos:  
 GET /produtos/ HTTP/1.1  
